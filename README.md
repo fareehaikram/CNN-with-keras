@@ -5,3 +5,9 @@ It consists of 25000 images of 150x150 size.Theses are labeld into 6 classes  {'
 I have used transfer learning for my model.ImageNet weigths are used for the convolutional base and Classifier is trained for the specific dataset.
 The weigths are available at https://drive.google.com/file/d/1Et8TpXiFoCaaE-SpVX6VlFEO719Q3xEL/view?usp=sharing.I have also shared the drive link as https://drive.google.com/drive/folders/1aIgQy0xKHeUtE8NdqfLfBa71WV3jUKKW?usp=sharin.You can use this link to run the code.
 Moreover Data augmentation has been used.
+
+<br /> The CNN model achieved test accuracy of 89%.Some visual results are shown
+<br/>
+![all text](https://github.com/fareehaikram/images/blob/main/adam0001.JPG)
+![all text](https://github.com/fareehaikram/images/blob/main/heat.JPG)
+
